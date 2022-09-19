@@ -1,5 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!--
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [[ ***少女的心***]凉品商业计划书](#-%E5%B0%91%E5%A5%B3%E7%9A%84%E5%BF%83%E5%87%89%E5%93%81%E5%95%86%E4%B8%9A%E8%AE%A1%E5%88%92%E4%B9%A6)
@@ -15,13 +16,12 @@
     - [十、融资计划](#%E5%8D%81%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92)
     - [十一、联系方式](#%E5%8D%81%E4%B8%80%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+ END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 
 # [ ***少女的心***]凉品商业计划书
 
-[toc]
 ### 一、项目概况
 
 在人流量较多的地方售卖黑凉粉等绿色消暑食品;
@@ -71,8 +71,8 @@
 
 ### 八、核心团队
 
-- 创始人兼行政兼售卖员: 丘丘
-- 厨师兼财务兼售卖员: 吴文
+- 创始人CEO兼行政兼售卖员: 丘丘
+- 研发CTO兼财务兼售卖员: 吴文
 
 ### 九、发展规划
 

@@ -1,7 +1,27 @@
-[toc]
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [[ ***少女的心***]凉品商业计划书](#-%E5%B0%91%E5%A5%B3%E7%9A%84%E5%BF%83%E5%87%89%E5%93%81%E5%95%86%E4%B8%9A%E8%AE%A1%E5%88%92%E4%B9%A6)
+    - [一、项目概况](#%E4%B8%80%E9%A1%B9%E7%9B%AE%E6%A6%82%E5%86%B5)
+    - [二、用户痛点](#%E4%BA%8C%E7%94%A8%E6%88%B7%E7%97%9B%E7%82%B9)
+    - [三、行业分析](#%E4%B8%89%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90)
+    - [四、产品优势](#%E5%9B%9B%E4%BA%A7%E5%93%81%E4%BC%98%E5%8A%BF)
+    - [五、竞品分析](#%E4%BA%94%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90)
+    - [六、商业模式](#%E5%85%AD%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F)
+    - [七、运营现状](#%E4%B8%83%E8%BF%90%E8%90%A5%E7%8E%B0%E7%8A%B6)
+    - [八、核心团队](#%E5%85%AB%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F)
+    - [九、发展规划](#%E4%B9%9D%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92)
+    - [十、融资计划](#%E5%8D%81%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92)
+    - [十一、联系方式](#%E5%8D%81%E4%B8%80%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 # [ ***少女的心***]凉品商业计划书
 
+[toc]
 ### 一、项目概况
 
 在人流量较多的地方售卖黑凉粉等绿色消暑食品;
